@@ -8,28 +8,28 @@ I am a 3rd-year Application Development student with a passion for designing and
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 -  Diploma in ICT: Application Development(Currently busy)
 -  Cape Peninsula University of Technology (CPUT)
 -  Passionate about Software Development and Problem Solving
--  Currently learning React and Machine Learning
--  Interested in Data Analysis and Predictive Models
+-  Currently a VACATION STUDENT at Rheinmetall Denel Munition
+-  Interested in Full stack development and Cybersecurity
 
 ---
 
 ##  Technical Skills
 
-### Programming Languages
+### Backend Languages
 - Java
 - Python
-- JavaScript
+
 
 ### Web Development
 - React
 - HTML
 - CSS
-- Tailwind CSS
+
 
 ### Other Skills
 - Machine Learning
@@ -37,6 +37,9 @@ I am a 3rd-year Application Development student with a passion for designing and
 - UI/UX Design
 - Figma
 
+###Frameworks I like 
+- Java Springboot
+- Python Flask / Fast Api
 ---
 
 ##  Projects
@@ -78,12 +81,9 @@ Designed and developed a personal portfolio website using HTML, CSS, and JavaScr
 ---
 
 ##  Current Focus
-
-- Building modern web applications with React
-- Expanding my Machine Learning knowledge
-- Developing data-driven solutions
-- Seeking internship and Work Integrated Learning opportunities
+-Completing my journey as Vacation student at Rheinmetall and contributing the best as I can .
+- Finishing my Diploma at Cape Peninsula University of Technology
 
 ---
 
-### "Creating technology-driven solutions that make a difference."
+

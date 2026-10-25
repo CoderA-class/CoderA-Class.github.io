@@ -2,9 +2,7 @@
 
 [Back to contents](index.html)
 
-> **Items marked [CONFIRM] must be replaced with your real details before submitting.**
 
----
 
 ## Part A: Evidence
 
@@ -30,8 +28,8 @@
 | Name | Role | Responsibilities |
 |---|---|---|
 | Adriaan van der Westhuizen | Student Developer (WIL) | Design, build, test and demo the portal; maintain backlog and logbook |
-| [CONFIRM: mentor name] | Mentor / Product Owner | Provide requirements, prioritise work, give feedback, approve sign-off |
-| [CONFIRM: other stakeholders, e.g. IT manager, HR/Training] | Stakeholders | Review demos, give feedback, sign off for go-live |
+| Prefer Anonymous | Mentor / Product Owner | Provide requirements, prioritise work, give feedback, approve sign-off |
+| Information Technology ( All of RDM can access ) | Stakeholders | Review demos, give feedback, sign off for go-live |
 
 ### 4. Shared values
 
@@ -48,22 +46,22 @@
 | Working hours | Tue to Thu 07:30 to 16:15, Fri 07:30 to 15:15 |
 | Sprint length | 1 week (aligned with the weekly demo) |
 | Sprint planning | Start of the working week: pick items from the product backlog |
-| Daily stand-up | Short daily check-in with my mentor, or a written stand-up note [CONFIRM] |
+| Daily stand-up | Short daily check-in with my mentor |
 | Sprint review (demo) | Weekly demo of working software to my mentor |
 | Retrospective | End of sprint: what went well, what to improve, one action |
-| Communication | In person and company channels [CONFIRM: Teams/email] |
+| Communication | In person and company channels |
 | Decisions | Mentor decides priorities and scope; I decide technical implementation and explain the options |
 | Feedback | Written down after each demo and added to the backlog |
 | Blockers | Raised the same day, not left until the demo |
 
-### 6. Definition of Ready (a story can enter a sprint when...)
+### 6. Definition of Ready (a story can enter a sprint when.)
 
 - It is written as a user story with a clear benefit.
 - It has acceptance criteria.
 - It is small enough to finish within one sprint.
 - Any dependency (data, access, approval) is known.
 
-### 7. Definition of Done (a story is done when...)
+### 7. Definition of Done (a story is done when.)
 
 - Code works as described in the acceptance criteria.
 - It has been tested manually on the happy path and the main error cases.
@@ -82,7 +80,7 @@
 - Data stored in MS SQL Server
 
 **Out of scope for this release**
-- Items not agreed with my mentor, which go to the backlog for a future release [CONFIRM]
+- None
 
 ### 9. Constraints and risks
 
@@ -100,14 +98,7 @@
 - Employees can find induction and training material without asking for help.
 - Feedback from demos is addressed in the next sprint.
 
-### 11. Agreement
 
-| Name | Role | Date |
-|---|---|---|
-| Adriaan van der Westhuizen | Student Developer | [CONFIRM] |
-| [CONFIRM] | Mentor | [CONFIRM] |
-
-*Note: This charter is a living document. It was reviewed whenever a working agreement stopped working.*
 
 ---
 

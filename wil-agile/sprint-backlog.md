@@ -2,10 +2,6 @@
 
 [Back to contents](index.html)
 
-> **Edit the sprint dates, tasks and results to match your real week.** Items marked [CONFIRM] need your check.
-
----
-
 ## Part A: Evidence
 
 ### Sprint set-up
@@ -17,48 +13,43 @@
 | Capacity | About 34 hours on site per week (Tue to Thu 07:30 to 16:15, Fri 07:30 to 15:15). I plan at about 70 to 75 percent of that for building, and the rest covers meetings, testing, fixing and admin. |
 | Ceremonies | Planning at the start of the week, daily stand-up note, review (demo), retrospective |
 
-### How the sprint backlog differs from the product backlog
 
-The product backlog is *everything* the portal needs. The sprint backlog is the small set of items I commit to for **this week**, broken into tasks, with a sprint goal.
-
-### Sprints across the placement
+### Sprints at Work 
 
 | Phase | Focus | Demo outcome |
 |---|---|---|
-| Start (from 01 July) | Requirements meeting, setting up Flask, SQL Server and project structure | Walkthrough of plan and first page layout |
+| Pre Development | Requirements meeting, setting up Flask, SQL Server and project structure | Walkthrough of plan and first page layout |
 | Early sprints | Database design, base layout, navigation, induction page | First working pages shown |
 | Middle sprints | Training pages, links directory, login, admin functions | Core features demonstrated |
 | Later sprints | Search, validation, responsive design, feedback fixes | Polished system |
 | Current sprint | Final testing, bug fixes, handover documentation, sign-off preparation | Ready for sign-off |
 
-*(Add exact sprint numbers and dates from your logbook if you have them.)*
+
 
 ---
 
-### Example sprint in detail: Sprint [CONFIRM: number], week of 20 to 23 October 2026
+### Example sprint in detail: Sprint Phase 3 , week of 20 to 23 October 2026
 
 **Sprint goal:** *Finish final testing and fixes so the portal is ready for sign-off.*
 
 **Committed items**
 
-| Task ID | From backlog | Task | Est. hrs | Actual hrs | Status |
+| Task ID | From backlog | Task | Est. hrs |  hrs | Status |
 |---|---|---|---|---|---|
-| S-01 | PB-13 | Fix bugs found in last demo | 6 | [CONFIRM] | Done |
-| S-02 | PB-14 | Full manual test of every page and menu link | 5 | [CONFIRM] | Done |
-| S-03 | PB-14 | Test login and admin roles (valid and invalid cases) | 4 | [CONFIRM] | Done |
-| S-04 | PB-12 | Cross-browser and screen-size check | 3 | [CONFIRM] | Done |
-| S-05 | PB-11 | Review error messages and validation | 3 | [CONFIRM] | Done |
-| S-06 | PB-14 | Write handover notes (how it works, how to maintain it) | 4 | [CONFIRM] | In progress |
-| S-07 | PB-15 | Prepare final demo for mentor | 2 | [CONFIRM] | In progress |
+| S-01 | PB-13 | Apply scrolling animations | 6 | 6 | Done |
+| S-02 | PB-14 | Add pagination | 5 | 6 | Done |
+| S-03 | PB-14 | Add menu button for mobile | 4 | 6 | Done |
+| S-04 | PB-12 | make application responsive | 3 | 6 | Done |
+| S-07 | PB-15 | Prepare final demo for mentor | 2 | 3 | In progress |
 | **Total** | | | **27** | | |
 
 **Sprint board (end of week)**
 
 | To do | In progress | Testing | Done |
 |---|---|---|---|
-| | S-06, S-07 | | S-01 to S-05 |
+| |  S-07 | | S-01 to S-04 |
 
-### Sprint review (demo)
+### Sprint review 
 
 - Showed the working portal to my mentor.
 - Feedback recorded and added to the product backlog.

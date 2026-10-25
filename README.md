@@ -4,7 +4,7 @@
 
 I am a 3rd-year Application Development student with a passion for designing and building software solutions that solve real-world business problems. I enjoy learning new technologies, creating innovative projects, and exploring fields such as web development, machine learning, and data analysis.
 
-I am currently seeking **Work Integrated Learning (WIL)** opportunities to complete my studies and gain industry experience.
+View my Industry Placement Agile Portfolio](wil-agile/index.html)
 
 ---
 

@@ -2,9 +2,9 @@
 
 **Student:** Adriaan van der Westhuizen
 **Qualification:** Diploma in ICT: Application Development (CPUT)
-**Subject:** Project Presentation 3 (PRP370S / PRP371S / PRP372S)
+**Subject:** Project Presentation 3  PRP372S
 **Placement project:** RDM Information Technology Portal
-**Placement period:** 01 July 2026 to present
+**Placement period:** 01 July 2026 to 30 Nov 2026
 
 ---
 

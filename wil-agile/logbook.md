@@ -22,9 +22,9 @@
 
 | Date | Yesterday | Today | Blockers |
 |---|---|---|---|
-| 01 Jul [CONFIRM] | n/a | Orientation at the company; meeting with mentor to understand the portal requirements | None |
-| [CONFIRM] | Recorded requirements | Wrote the first list of features; chose the technology (Flask, SQL Server, HTML, CSS, JS) | Waiting for database access |
-| [CONFIRM] | Set up development environment | Created project structure and tested SQL Server connection | None |
+| 01 Jul  | n/a | Orientation at the company; meeting with mentor to understand the portal requirements | None |
+| 01 AUG | Recorded requirements | Wrote the first list of features; chose the technology (Flask, SQL Server, HTML, CSS, JS) | Waiting for database access |
+| 01 AUG | Set up development environment | Created project structure and tested SQL Server connection | None |
 
 **Sprint review:** Presented the requirements summary to my mentor and agreed the first features.
 **Retrospective:** Good start. Next time I will write requirements down in the meeting itself.
@@ -35,9 +35,9 @@
 
 | Date | Yesterday | Today | Blockers |
 |---|---|---|---|
-| [CONFIRM] | Database tables designed | Built base template and navigation | None |
-| [CONFIRM] | Navigation working | Built the induction documents page | Unclear categories; asked mentor |
-| [CONFIRM] | Induction page done | Prepared the weekly demo | None |
+| 10 - 28 Aug | Database tables designed | Built base template and navigation | None |
+| 10 - 28 Aug | Navigation working | Built the induction documents page | Unclear categories; asked mentor |
+| 10 - 28 Aug | Induction page done | Prepared the weekly demo | None |
 
 **Sprint review:** First demo. Mentor liked the structure and asked for clearer wording on menu items.
 **Retrospective:** Action: add feedback straight to the backlog after each demo.
@@ -48,9 +48,9 @@
 
 | Date | Yesterday | Today | Blockers |
 |---|---|---|---|
-| [CONFIRM] | Training page layout | Added categories and filtering | None |
-| [CONFIRM] | Links directory built | Started login and access control | Needed to confirm how users should be identified |
-| [CONFIRM] | Login working | Built admin add, edit and remove functions | None |
+| Sept | Training page layout | Added categories and filtering | None |
+| Sept | Links directory built | Started login and access control | Needed to confirm how users should be identified |
+| Sept | Login working | Built admin add, edit and remove functions | None |
 
 **Sprint review:** Demoed core features. Feedback: simplify the admin forms.
 **Retrospective:** Login took longer than estimated. Action: split large tasks into smaller ones.
@@ -61,9 +61,9 @@
 
 | Date | Yesterday | Today | Blockers |
 |---|---|---|---|
-| [CONFIRM] | Admin forms simplified | Added search | None |
-| [CONFIRM] | Search working | Added validation and friendly error messages | None |
-| [CONFIRM] | Validation done | Responsive design and cross-browser checks | None |
+| 6-23 Oct | Admin forms simplified | Added search | None |
+| 6-23 Oct ] | Search working | Added validation and friendly error messages | None |
+| 6-23 Oct | Validation done | Responsive design and cross-browser checks | None |
 
 **Sprint review:** Portal feels complete. Mentor gave a final list of small changes.
 **Retrospective:** Weekly demos reduced surprises. Action: keep a testing checklist.
@@ -74,10 +74,10 @@
 
 | Date | Yesterday | Today | Blockers |
 |---|---|---|---|
-| Tue 20 Oct [CONFIRM] | Fixed demo feedback | Full test of every page and link | None |
-| Wed 21 Oct [CONFIRM] | Test complete, bugs logged | Fixed bugs; tested login and admin roles | None |
-| Thu 22 Oct [CONFIRM] | Bugs fixed | Cross-browser check; started handover notes | None |
-| Fri 23 Oct [CONFIRM] | Handover notes started | Final demo preparation | **Waiting for sign-off** |
+| Tue 20 Oct | Fixed demo feedback | Full test of every page and link | None |
+| Wed 21 Oct  | Test complete, bugs logged | Fixed bugs; tested login and admin roles | None |
+| Thu 22 Oct  | Bugs fixed | Cross-browser check; started handover notes | None |
+| Fri 23 Oct  | Handover notes started | Final demo preparation | **Waiting for sign-off** |
 
 **Sprint review:** Final version shown to mentor.
 **Retrospective:** Waiting for sign-off blocks go-live. Action: prepare deployment notes now so go-live is quick once approved.

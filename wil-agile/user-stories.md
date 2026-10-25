@@ -2,19 +2,10 @@
 
 [Back to contents](index.html)
 
-> **Edit these stories so they match what you actually built.** I kept them generic on purpose, so no confidential details are exposed.
-
----
 
 ## Part A: Evidence
 
-### How I write stories
 
-Every story follows the format:
-
-> **As a** [type of user], **I want** [a feature], **so that** [benefit].
-
-Each story has acceptance criteria (how we know it works), a story-point estimate (1, 2, 3, 5, 8) and a list of tasks. Stories are small enough to finish within a one-week sprint.
 
 ### Users (personas)
 
@@ -109,7 +100,7 @@ Each story has acceptance criteria (how we know it works), a story-point estimat
 
 ---
 
-### US-05: Secure access [CONFIRM how login works in your system]
+### US-05: Secure access ( Active Directory Authentication ) 
 
 **As the** company, **we want** only authorised staff to use the portal, **so that** internal information stays protected.
 

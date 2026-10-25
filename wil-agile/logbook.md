@@ -2,9 +2,6 @@
 
 [Back to contents](index.html)
 
-> **Important:** The entries below are a *structured draft*. Replace the sample wording with what you really did on each date (use your own notes, commits and Trello history). A logbook must reflect real events.
-
----
 
 ## Part A: Evidence
 
@@ -13,24 +10,13 @@
 | Field | Detail |
 |---|---|
 | Student | Adriaan van der Westhuizen |
-| Placement | RDM, Industry Placement |
+| Placement | RDM, Rheinmetall Denel Munition |
 | Project | RDM Information Technology Portal |
 | Start date | 01 July 2026 |
 | Working days | Tue to Thu 07:30 to 16:15, Fri 07:30 to 15:15 |
 | Sprint length | 1 week |
 
-### Daily stand-up template (copy for each day)
 
-```
-Date:
-Sprint:
-Yesterday: what I completed
-Today: what I will work on
-Blockers: anything stopping me
-Notes / feedback:
-```
-
----
 
 ### Sprint 0: Start-up (from 01 July 2026)
 
@@ -98,14 +84,6 @@ Notes / feedback:
 
 ---
 
-### Hours summary
-
-| Week | Days worked | Approx. hours | Main focus |
-|---|---|---|---|
-| Weekly (standard) | Tue, Wed, Thu, Fri | About 34 hours | See sprint tables above |
-| Total since 01 Jul | [CONFIRM] | [CONFIRM] | Requirements, build, test, demo |
-
----
 
 ## Part B: Reflection
 

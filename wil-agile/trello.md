@@ -4,7 +4,7 @@
 
 The Kanban board I used to manage the work.
 
-**Board link:** [CONFIRM: paste your public or shared Trello link here]
+**Board link:** [[CONFIRM: paste your public or shared Trello link here](https://trello.com/b/cGN6sOSa/my-trello-board)]
 
 **Screenshot:** ![Trello board](images/trello-board.png)
 *(Add a screenshot at `wil-agile/images/trello-board.png`. Make sure no confidential card text is visible.)*

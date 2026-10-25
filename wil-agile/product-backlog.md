@@ -2,9 +2,6 @@
 
 [Back to contents](index.html)
 
-> **Edit the Status and Sprint columns so they match what really happened.** Items marked [CONFIRM] need your check.
-
----
 
 ## Part A: Evidence
 
@@ -12,7 +9,7 @@
 
 The product backlog is the single, ordered list of everything the portal needs: features, improvements, technical work and bug fixes. My mentor (as Product Owner) decides the priority, and I estimate and refine items. It is a living list. It changed after nearly every weekly demo.
 
-### How items are prioritised (MoSCoW)
+### How items are prioritised
 
 | Label | Meaning |
 |---|---|
@@ -45,24 +42,15 @@ The product backlog is the single, ordered list of everything the portal needs: 
 | PB-18 | Notifications when new training is added | Feature | n/a | Could | 8 | Not started | Future |
 | PB-19 | Favourites / personalised view for each employee | Feature | n/a | Won't (now) | 8 | Not started | Future |
 
-### Backlog health snapshot
 
-| Measure | Value |
-|---|---|
-| Total items | 19 |
-| Done | 13 |
-| In progress | 1 |
-| Waiting / blocked on sign-off | 2 |
-| Future (not started) | 3 |
-| Must-have items complete | all except sign-off, final testing and deployment |
 
 ### Refinement notes
 
 - After each weekly demo I added feedback to the backlog and re-ordered it with my mentor.
 - Items too large for one week were split into smaller stories.
-- Ideas outside the agreed scope (PB-17 to PB-19) were parked rather than built, to protect the release date.
+- Ideas outside the agreed scope were parked rather than built, to protect the release date.
 
-**Board:** [Trello board](trello.html) *(add your board link or screenshot)*
+**Board:** [Trello board](trello.html) 
 
 ---
 
@@ -70,7 +58,7 @@ The product backlog is the single, ordered list of everything the portal needs: 
 
 **What I did.** I created and maintained a prioritised list of everything the portal needed, and I updated it after each demo as my mentor gave feedback and as I learned more.
 
-**What I learned.** The backlog is not a to-do list. It is a *conversation* between the developer and the Product Owner about value. Using MoSCoW labels made it easy to explain why one item came before another, and it let me say "not now" without a disagreement. I also learned that keeping future ideas (analytics, notifications) visible but unbuilt stops scope creep and still shows I listened to the user needs.
+**What I learned.** The backlog is not a to-do list. It is a *conversation* between the developer and the Product Owner about value. Using  labels made it easy to explain why one item came before another, and it let me say "not now" without a disagreement. I also learned that keeping future ideas (analytics, notifications) visible but unbuilt stops scope creep and still shows I listened to the user needs.
 
 **What was difficult.** The hardest part was balancing new feedback against the work I had already planned. Some feedback was small but touched many pages, so it was larger than it looked, and I had to estimate it honestly.
 

@@ -4,7 +4,7 @@
 
 My Trello Board
 
-**Board link:** [(https://trello.com/b/cGN6sOSa/my-trello-board)]
+**Board link:** https://trello.com/b/cGN6sOSa/my-trello-board
 
 **Screenshot:** ![Trello board](images/trello-board.png)
 
